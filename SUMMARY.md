@@ -21,8 +21,4 @@
   * [Setup an iOS & Android App](how-to-guides/setup-an-ios-and-android-app.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
-  * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
-  * [Special Features](platform-information/special-features/README.md)
-    * [Public Holiday Surcharge](platform-information/special-features/public-holiday-surcharge.md)
-    * [COVID-19 Discount for United Kingdom](platform-information/special-features/covid-19-discount-for-united-kingdom.md)
 
