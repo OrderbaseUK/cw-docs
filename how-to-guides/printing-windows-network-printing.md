@@ -54,9 +54,9 @@ description: How to guide to print with a network printer
 {% hint style="danger" %}
 **NOTE:**
 
-**Printer name** - This is the name that the printer will show inside of CloudWaitress.
+**Printer name** - This is the name that the printer will show inside of Orderbase.
 
-**API Key** - This needs to be copied from the printer settings inside of CloudWaitress.
+**API Key** - This needs to be copied from the printer settings inside of Orderbase.
 
 **Number of copies** - This will determine how many copies of the are printed.
 
